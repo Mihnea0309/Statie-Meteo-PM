@@ -8,14 +8,14 @@
 #include <DHT.h>
 
 const char* ssid = "Android";
-const char* password = "qwertyuiop1";
+const char* password = "";
 
 const char* server = "api.thingspeak.com";
-String apiKey = "LIG11O1UJ1LVP6ZZ";
+String apiKey = "";
 
 const char* openWeatherServer = "api.openweathermap.org";
 const char* city = "Bucharest";
-const char* apiKeyOW = "3c234086eab2066147ee9b450524f7d3";
+const char* apiKeyOW = "";
 
 #define DHTPIN D6
 #define DHTTYPE DHT22
