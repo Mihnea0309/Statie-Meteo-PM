@@ -7,8 +7,8 @@
 #include <Adafruit_ILI9341.h>
 #include <DHT.h>
 
-const char* ssid = "Dinamo1948 2.4G";
-const char* password = "YxsAQZGZPPCP9A7kFQ";
+const char* ssid = "";
+const char* password = "";
 
 //const char* ssid = "Android";
 //const char* password = "qwertyuiop1";
